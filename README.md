@@ -1,16 +1,16 @@
-### Hi there 👋
+### 👋 Hi there, my name is Jorge Ramiro
 
-<!--
-**Jorge-Ramiro/Jorge-Ramiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data analyst jr. with the necessary skills to extract relevant information from the data.
 
-Here are some ideas to get you started:
+### Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=yellow&style=flat)]()
+[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=orange&style=flat)]()
+
+[![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=white&style=flat)]()
+[![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat)]()
+
+[![Microsoft Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?logo=microsoftexcel&logoColor=white&style=flat)]()
+
+### Find me at:
+[![Linkedin](https://img.shields.io/badge/-Linkedin-0A66C2?logo=linkedin&logoColor=blacke)](https://www.linkedin.com/in/jorge26)
